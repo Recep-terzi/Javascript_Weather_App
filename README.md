@@ -10,9 +10,9 @@
 
 ## Netlify App
 
-- https://622f039d146129657e0bf743--relaxed-hawking-cba7e8.netlify.app
+- https://622f5f358a842700a84b7353--nifty-mirzakhani-1850ff.netlify.app
 
 
 
-![](https://i.hizliresim.com/366evmp.png)
+![](C:\Users\recep\AppData\Roaming\Typora\typora-user-images\image-20220314184059311.png)
 
