@@ -20,6 +20,7 @@ body{
 
 .header{
     padding: 50px 20px 30px 20px;
+    margin-top : 50px;
 }
 .header h1 {
     font-size : 50px;
@@ -63,4 +64,17 @@ body{
 .minmax{
     font-size: 24px;
     text-shadow: 1px3px rgba(0,0,0,.8);
+}
+
+
+.bor{
+    background-color: rgb(47, 118, 121);
+    margin-top: 100px;
+    padding-bottom : 40px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 5px 10px 80px 10px rgb(185, 178, 178);
+}
+.hava {
+    margin-bottom: 20px;
 }
