@@ -10,9 +10,9 @@
 
 ## Netlify App
 
-- https://622ef2cd1461294b910bf437--laughing-payne-a68cae.netlify.app
+- https://622f039d146129657e0bf743--relaxed-hawking-cba7e8.netlify.app
 
 
 
-![](https://i.hizliresim.com/gv5lbv4.PNG)
+![](https://i.hizliresim.com/366evmp.png)
 
