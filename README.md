@@ -12,7 +12,5 @@
 
 - https://622f5f358a842700a84b7353--nifty-mirzakhani-1850ff.netlify.app
 
-
-
-![](C:\Users\recep\AppData\Roaming\Typora\typora-user-images\image-20220314184059311.png)
+![](https://i.hizliresim.com/jbkges8.png)
 
